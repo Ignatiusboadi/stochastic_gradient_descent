@@ -33,6 +33,7 @@ This repository contains implementations and analysis of various Stochastic Grad
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone git@github.com:Ignatiusboadi/stochastic_gradient_descent.git
+mkdir sgd-solutions
 cd sgd-solutions
+git clone git@github.com:Ignatiusboadi/stochastic_gradient_descent.git
 pip install -r requirements.txt
